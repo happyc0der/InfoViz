@@ -1,0 +1,5 @@
+# Verified against these versions; the lower bounds are the minimum that work.
+streamlit>=1.30
+pandas>=2.0
+altair>=5.0
+vega-datasets>=0.9

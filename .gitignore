@@ -1,0 +1,18 @@
+# The dataset is downloaded on first run (see load_data in streamlit_app.py)
+NCHS_-_Leading_Causes_of_Death__United_States.csv
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+*.egg-info/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
