@@ -8,6 +8,14 @@ trend line, and a per-year breakdown by cause.
 The dataset downloads itself on first launch, so the only setup is installing
 four Python packages.
 
+## Screenshots
+
+| ![State-wise choropleth of deaths from heart disease, 2017](docs/screenshots/state-map.png) | ![Time series of Alzheimer's deaths with a fitted trend line](docs/screenshots/time-series.png) |
+| --- | --- |
+| State-Wise Geospatial: raw deaths from heart disease by state, 2017 | Time Series Regression: Alzheimer's deaths per year with a linear trend |
+| ![Pie chart of each cause's share of deaths, 2017](docs/screenshots/pie-chart.png) | ![Choropleth of age-adjusted death rates by state, 2017](docs/screenshots/safest-states.png) |
+| Year wise Pie Chart: each cause's share of all deaths, 2017 | Safest States Year Wise: age-adjusted death rate by state, 2017 |
+
 ## Quick start
 
 ```bash
